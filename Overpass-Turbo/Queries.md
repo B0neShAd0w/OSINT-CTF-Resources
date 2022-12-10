@@ -1,4 +1,4 @@
-Basic query examples
+Basic Query Tags
 ```js
 // Search for Baseball Stadium's in USA
 sport=baseball and leisure=stadium in USA
