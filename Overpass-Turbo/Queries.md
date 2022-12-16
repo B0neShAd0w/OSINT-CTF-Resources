@@ -1,5 +1,8 @@
 Basic Query Tags
 ```js
+// Search for Marina's in Mexico
+leisure=marina in Mexico
+
 // Search for Baseball Stadium's in USA
 sport=baseball and leisure=stadium in USA
 
